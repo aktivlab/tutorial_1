@@ -1,7 +1,7 @@
 ellipse(203, 197, 277, 309);
 
 Jak nazywamy powyższe liczby?
-- są to parametry
+- są to parametry, inaczej mówiąc (x, y, w, h)
 
 Co oznaczają powyższe liczby?
 - dwie pierwsze określają położenie elipsy, a dwie ostatnie jej wielkość 
