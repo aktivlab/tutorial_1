@@ -1,9 +1,11 @@
-ellipse(203, 197, 277, 309);
+ellipse(x, y, w, h); 
+Co to jest: eliipse(); - polecenie, funkcja, dzięki której możemy tworzyć elipsy. 
 
-Jak nazywamy powyższe liczby?
-- są to parametry, inaczej mówiąc (x, y, w, h)
+Jak nazywamy liczby w funkcji ellipse(203, 197, 277, 309);
+- są to parametry,  
 
 Co oznaczają powyższe liczby?
-- dwie pierwsze określają położenie elipsy, a dwie ostatnie jej wielkość 
+- dwie pierwsze określają położenie elipsy, a dwie ostatnie jej wielkość
+  - wartości parametrów x i y mogą być od 0 do 400
+  - w - width, h-wysokość   
 
-Co to jest: eliipse(); - polecenie, funkcja
